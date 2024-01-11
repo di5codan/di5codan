@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @di5codan
+- 👀 I’m interested in automation + cool robot stuff
+- I like baking Pis. Pico + Pi4
+- ESP32 is pretty cool too
+- Probs going to 3D print some robots, idk
